@@ -17,6 +17,8 @@ A compassionate AI-powered mental health check-in agent built using Google ADK a
 
 ## Live Demo
 https://mental-health-guide-620139818570.us-central1.run.app
+<img width="1920" height="1080" alt="ankit project subm" src="https://github.com/user-attachments/assets/0488183f-cf63-4c00-86e1-06803cff7cfa" />
+
 
 ## Setup
 1. Clone the repository
